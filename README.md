@@ -66,9 +66,9 @@
 ## Connect with Me 🤝🏻
 
 <p>
-  <a href="https://linkedin.com/in/jeanclaudembiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/johnmbiya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dondedieu.bolenge-pink?style=flat-square&logo=instagram"></a>
-  <a href="https://www.twitter.com/johnmbiya/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DondeDieuBolenge-skyblue?style=flat-square&logo=twitter"></a>
+  <a href="https://linkedin.com/in/jeanclaudembiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Johnmbiya-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/johnmbiya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Johnmbiya-pink?style=flat-square&logo=instagram"></a>
+  <a href="https://www.twitter.com/johnmbiya/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Johnmbiya-skyblue?style=flat-square&logo=twitter"></a>
 </p>
 
 ⭐️ [@johnmbiya](https://github.com/johnmbiya)
