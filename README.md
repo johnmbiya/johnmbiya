@@ -1,5 +1,5 @@
 
-# Hey 👋 ! I'm Don de Dieu BOLENGE
+# Hey 👋 ! I'm Jean Claude Mbiya
 
 ## 👨🏻‍💻 About Me
 
@@ -39,12 +39,12 @@
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=johnmbiya&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmbiya&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -53,23 +53,22 @@
     width="50%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=bolenge&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=johnmbiya&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="47%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bolenge&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=johnmbiya&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
 ## Connect with Me 🤝🏻
 
 <p>
-  <a href="mailto:dondedieubolenge@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dondedieubolenge@gmail.com-gray?style=flat-square&logo=Microsoft%20outlook"></a>
-  <a href="https://linkedin.com/in/don-de-dieu-bolenge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/dondedieu.bolenge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dondedieu.bolenge-pink?style=flat-square&logo=instagram"></a>
-  <a href="https://www.twitter.com/bolenge_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DondeDieuBolenge-skyblue?style=flat-square&logo=twitter"></a>
+  <a href="https://linkedin.com/in/jeanclaudembiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DondeDieuBolenge-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/johnmbiya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dondedieu.bolenge-pink?style=flat-square&logo=instagram"></a>
+  <a href="https://www.twitter.com/johnmbiya/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DondeDieuBolenge-skyblue?style=flat-square&logo=twitter"></a>
 </p>
 
-⭐️ [@bolenge](https://github.com/bolenge)
+⭐️ [@johnmbiya](https://github.com/johnmbiya)
